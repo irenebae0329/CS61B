@@ -69,4 +69,5 @@ class Planet{
         StdDraw.picture(this.xxPos,this.yyPos,absRoute);
     }
 
+
 }
